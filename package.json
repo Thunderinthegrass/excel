@@ -1,0 +1,31 @@
+{
+  "name": "pure-excel",
+  "version": "1.0.0",
+  "description": "educational project",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thunderinthegrass/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "exsel"
+  ],
+  "author": "Roman N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thunderinthegrass/excel/issues"
+  },
+  "homepage": "https://github.com/Thunderinthegrass/excel#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  }
+}
